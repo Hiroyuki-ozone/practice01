@@ -1,0 +1,19 @@
+@charset "utf-8";
+html{
+	font-size: 16px;
+}
+body{
+
+#message{
+	color: #fff;
+	font-size: 2em;
+}
+.jun-btn{
+	width: 100px;
+	font-size: 5em;
+}
+.rest_btn{
+	width: 350px;
+	font-size: 5em;
+
+}
